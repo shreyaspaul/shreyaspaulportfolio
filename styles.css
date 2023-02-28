@@ -1,4 +1,4 @@
-/* Generated on: Tue Feb 28 2023 19:33:34 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Feb 28 2023 20:26:24 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4727,6 +4727,10 @@ figcaption {
     display: -ms-flexbox;
     display: flex;
     grid-column-gap: 2rem;
+  }
+
+  .image {
+    width: 3rem;
   }
 }
 
